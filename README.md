@@ -1,8 +1,17 @@
-# React + Vite
+📝 To-Do App
+A To-Do application built using React, JavaScript, Tailwind CSS, Context API, and LocalStorage. 
+Users can add, edit, delete, and persist their tasks even after refreshing the browser.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features:
 
-Currently, two official plugins are available:
+Add new tasks
+Edit existing tasks
+Delete tasks
+Mark tasks as completed
+Responsive and clean UI with Tailwind CSS
+Persistent data with LocalStorage
+Global state management using React Context API
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Tech Stack:
+
+React, JavaScript, Tailwind CSS, HTML, Context API, LocalStorage
