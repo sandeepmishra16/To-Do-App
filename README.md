@@ -1,4 +1,4 @@
-📝** To-Do App**
+📝 **To-Do App**
 
 - A simple and efficient To-Do application built using React, JavaScript, Tailwind CSS, Context API, and LocalStorage. 
 - Users can add, edit, delete, and persist their tasks even after refreshing the browser.
